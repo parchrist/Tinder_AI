@@ -13,4 +13,5 @@ The goal with this AI project is to get the bot to swipe with an accuracy of app
 05/15/2023 Update 
 I will be updating the Repo with a notebook showing my code for the TensorFlow outline soon. Most likely on the weekend of 05/15/2023
 
-Still lots of grading needs to be done. 
+06/04/2023
+The Model will not be published due to the ethical concern, The full script to run the AI will not be published either. Parts of the script was updated, but the script won't and is not fully functional. 
