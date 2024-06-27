@@ -93,6 +93,6 @@ class ImageBrowser(tk.Tk):
 
 
 if __name__ == "__main__":
-    root_directory = r"D:\Tinder_AI Training\Female_Pics"
+    root_directory = r"D:\Tinder_AI Training\Female_Pics" ### you will have to rename this spot for the directory of the images you want to rate
     app = ImageBrowser(root_directory)
     app.mainloop()
