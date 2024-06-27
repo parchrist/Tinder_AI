@@ -4,7 +4,7 @@ import time
 
 # set the URL of the API endpoint and the auth key
 url = "https://api.gotinder.com/v2/recs/core?locale=en"
-auth_key = "9516f6ee-b9b4-440a-96d1-462991d48ed1"
+auth_key = "ur key here"
 
 # set the save folder for the downloaded images
 
